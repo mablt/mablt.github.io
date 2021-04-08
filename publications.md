@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Mathieu Bolteau - Publications
 description: My publications.
 sitemap:
     priority: 1.0
